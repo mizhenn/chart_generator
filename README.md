@@ -2,6 +2,8 @@
 
 Welcome 👋  to the the Chart Generator project! This web application allows you to dynamically generate charts based on the data you provide. You can add data, select different chart types, and interact with the chart elements. Built with HTML, CSS and JavaScript.
 
+#### Access Live Website 👉🏼 [here](https://mizhenn.github.io/chart_generator/) 
+
 ## Features
 - Add data with a name and numerical value.
 - Choose from bar, line, pie, doughnut, and radar chart types.
